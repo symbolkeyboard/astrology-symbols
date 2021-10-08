@@ -11,53 +11,53 @@ All symbols consist of official symbol characters, symbol names and meanings lis
 
 The easiest way to quickly **copy and paste symbols**.
 ### List of Astrology Symbols
-#### ♈ Aries
-#### ♉ Taurus
-#### ♊ Gemini
-#### ♋ Cancer
-#### ♌ Leo
-#### ♍ Virgo
-#### ♎ Libra
-#### ♏ Scorpius
-#### ♐ Sagittarius
-#### ♑ Capricorn
-#### ♒ Aquarius
-#### ♓ Pisces
-#### ☮ Peace
-#### ☯ Yin Yang
-#### ☪ Star and Crescent
-#### ☸ Wheel of Dharma
-#### ☤ Caduceus
-#### ☥ Ankh
-#### ☧ Chi Rho
-#### ☨ Cross of Lorraine
-#### ☩ Cross of Jerusalem
-#### ☫ Farsi
-#### ☬ Adi Shakti
-#### ☭ Hammer and Sickle
-#### ☽ First Quarter Moon
-#### ☾ Last Quarter Moon
-#### ✙ Outlined Greek Cross
-#### ✚ Heavy Greek Cross
-#### ✛ Open Centre Cross
-#### ✜ Heavy Open Centre Cross
-#### ✝ Latin Cross
-#### ✞ Shadowed White Latin Cross
-#### ✟ Outlined Latin Cross
-#### † Dagger
-#### ⊹ Hermitian Conjugate Matrix
-#### ‡ Double Dagger
-#### ☦ Orthodox Cross
-#### ♁ Earth
-#### ♆ Neptune
-#### ❖ Black Diamond Minus White X
-#### ♅ Uranus
-#### ✠ Maltese Cross
-#### ✡ Star of David
-#### ✢ Four Teardrop-Spoked Asterisk
-#### 卍 Left-Facing Swastika
-#### 卐 Right-Facing Swastika
-#### 〷 Ideographic Telegraph Line Feed Separator
-#### ☠ Skull and Crossbones
-#### ☢ Radioactive Sign
-#### ☣ Biohazard Sign
+- ♈ Aries
+- ♉ Taurus
+- ♊ Gemini
+- ♋ Cancer
+- ♌ Leo
+- ♍ Virgo
+- ♎ Libra
+- ♏ Scorpius
+- ♐ Sagittarius
+- ♑ Capricorn
+- ♒ Aquarius
+- ♓ Pisces
+- ☮ Peace
+- ☯ Yin Yang
+- ☪ Star and Crescent
+- ☸ Wheel of Dharma
+- ☤ Caduceus
+- ☥ Ankh
+- ☧ Chi Rho
+- ☨ Cross of Lorraine
+- ☩ Cross of Jerusalem
+- ☫ Farsi
+- ☬ Adi Shakti
+- ☭ Hammer and Sickle
+- ☽ First Quarter Moon
+- ☾ Last Quarter Moon
+- ✙ Outlined Greek Cross
+- ✚ Heavy Greek Cross
+- ✛ Open Centre Cross
+- ✜ Heavy Open Centre Cross
+- ✝ Latin Cross
+- ✞ Shadowed White Latin Cross
+- ✟ Outlined Latin Cross
+- † Dagger
+- ⊹ Hermitian Conjugate Matrix
+- ‡ Double Dagger
+- ☦ Orthodox Cross
+- ♁ Earth
+- ♆ Neptune
+- ❖ Black Diamond Minus White X
+- ♅ Uranus
+- ✠ Maltese Cross
+- ✡ Star of David
+- ✢ Four Teardrop-Spoked Asterisk
+- 卍 Left-Facing Swastika
+- 卐 Right-Facing Swastika
+- 〷 Ideographic Telegraph Line Feed Separator
+- ☠ Skull and Crossbones
+- ☢ Radioactive Sign
+- ☣ Biohazard Sign
